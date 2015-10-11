@@ -39,12 +39,12 @@ public class StatusActivity extends Activity implements OnClickListener, TextWat
 
 	
 	private static final String TAG = "StatusActivity";
-	static String TWITTER_CONSUMER_KEY = "H1GV4syxCXU9SrdT7RIAqfxS4";
-    static String TWITTER_CONSUMER_SECRET = "0Yq8zr5RUhBn6wLujK1ptWCNhyst4YN979IWT7MrchikhsV0lx";
+	static String TWITTER_CONSUMER_KEY = "";
+    static String TWITTER_CONSUMER_SECRET = "";
     TextView textCount;
  
-	private static final String access_token = "3326698466-Zc58Y6Su9yQUIWPQiS7iTbIJtr8pGj9yrodvi5x";
-	private static final String access_token_secret = "ATKI9r9cQfvI1YjYIDiXhHsnYyVZbgIAyAmyMj542Uiqw";
+	private static final String access_token = """;
+	private static final String access_token_secret = "";
 	private static final String TWITTER_CALLBACK_URL = "http://mblog.project.com";
 	
 	 // Preference Constants
